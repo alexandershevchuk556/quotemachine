@@ -1,0 +1,88 @@
+html {
+	margin:0;
+	padding: 0;
+}
+body {
+	margin:0;
+	padding: 0;
+	
+}
+#quote-box-wrapper{
+
+	display:flex;
+	justify-content: center;
+	transition:2s;
+	width: 100vw;
+    height: 100vh;
+    align-self: center;
+    margin: 0 auto;
+}
+#new-quote {
+  text-decoration: none;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  transition: 1s;
+  display: inline-block;
+  font-size: 16px;
+  width: 20%;
+  margin-left: 70%;
+  border-radius: 2px;
+  cursor: pointer;
+
+}
+#quote-box{
+
+	justify-content: center;
+	position: absolute;
+	top: 25%;
+	border-radius: 2px;
+    transition: 1s;
+	padding: 30px;
+	background-color:white;
+	min-width: 50vw;
+
+}
+@media (max-width: 1000px) {
+#quote-box{
+
+	padding-top: 5px;
+	padding-bottom: 5px;
+    width: 20vw;	
+	font-size:25%;
+	border-radius: 1px;
+  	
+	
+}
+#button-wrapper{
+	display: flex;
+	font-size:25%;
+	width: 60vw;
+}
+#new-quote {
+
+  padding: 5px 0px;
+  transition: 1s;
+  font-size: 4px;
+  width: 20%;
+  margin-left: 70%;
+  border-radius: 2px;
+  cursor: pointer;
+  border-radius: 0.3px;
+  outline:none;
+
+}
+a{
+	font-size: 4px;
+}
+  
+}
+
+#button-wrapper{
+	display: flex;
+}
+#root{
+	max-width: 200px;
+	max-height: 200px;
+}
