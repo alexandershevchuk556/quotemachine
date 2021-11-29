@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "//alexandershevchuk556.github.io/quotemachine/static/css/main.371b4704.chunk.css",
-    "main.js": "//alexandershevchuk556.github.io/quotemachine/static/js/main.5a23f5d8.chunk.js",
-    "main.js.map": "//alexandershevchuk556.github.io/quotemachine/static/js/main.5a23f5d8.chunk.js.map",
-    "runtime-main.js": "//alexandershevchuk556.github.io/quotemachine/static/js/runtime-main.20b81527.js",
-    "runtime-main.js.map": "//alexandershevchuk556.github.io/quotemachine/static/js/runtime-main.20b81527.js.map",
-    "static/js/2.ffb32053.chunk.js": "//alexandershevchuk556.github.io/quotemachine/static/js/2.ffb32053.chunk.js",
-    "static/js/2.ffb32053.chunk.js.map": "//alexandershevchuk556.github.io/quotemachine/static/js/2.ffb32053.chunk.js.map",
+    "main.css": "//alexandershevchuk556.github.io/quotemachine/static/css/main.5940d6da.chunk.css",
+    "main.js": "//alexandershevchuk556.github.io/quotemachine/static/js/main.dbae4db1.chunk.js",
+    "main.js.map": "//alexandershevchuk556.github.io/quotemachine/static/js/main.dbae4db1.chunk.js.map",
+    "runtime-main.js": "//alexandershevchuk556.github.io/quotemachine/static/js/runtime-main.a55e0ae5.js",
+    "runtime-main.js.map": "//alexandershevchuk556.github.io/quotemachine/static/js/runtime-main.a55e0ae5.js.map",
+    "static/js/2.a134b155.chunk.js": "//alexandershevchuk556.github.io/quotemachine/static/js/2.a134b155.chunk.js",
+    "static/js/2.a134b155.chunk.js.map": "//alexandershevchuk556.github.io/quotemachine/static/js/2.a134b155.chunk.js.map",
     "index.html": "//alexandershevchuk556.github.io/quotemachine/index.html",
-    "precache-manifest.006d7da6b9cf0616ec4fb7d5ee6be849.js": "//alexandershevchuk556.github.io/quotemachine/precache-manifest.006d7da6b9cf0616ec4fb7d5ee6be849.js",
+    "precache-manifest.03daf8dd08c9fce6874cda9213cee91f.js": "//alexandershevchuk556.github.io/quotemachine/precache-manifest.03daf8dd08c9fce6874cda9213cee91f.js",
     "service-worker.js": "//alexandershevchuk556.github.io/quotemachine/service-worker.js",
-    "static/css/main.371b4704.chunk.css.map": "//alexandershevchuk556.github.io/quotemachine/static/css/main.371b4704.chunk.css.map"
+    "static/css/main.5940d6da.chunk.css.map": "//alexandershevchuk556.github.io/quotemachine/static/css/main.5940d6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.20b81527.js",
-    "static/js/2.ffb32053.chunk.js",
-    "static/css/main.371b4704.chunk.css",
-    "static/js/main.5a23f5d8.chunk.js"
+    "static/js/runtime-main.a55e0ae5.js",
+    "static/js/2.a134b155.chunk.js",
+    "static/css/main.5940d6da.chunk.css",
+    "static/js/main.dbae4db1.chunk.js"
   ]
 }
