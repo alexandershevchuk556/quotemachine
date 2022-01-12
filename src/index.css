@@ -1,15 +1,16 @@
+* {
+	transition: 1s;
+}
 html {
 	margin:0;
 	padding: 0;
 }
 body {
 	margin:0;
-	padding: 0;
-	
+	padding: 0;	
 }
 #quote-box-wrapper{
-
-	width: 100vw;
+  width: 100vw;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -17,7 +18,6 @@ body {
 
 }
 #new-quote {
-  transition: 1s;
   border-radius: 2px;
   color: white;
   border: none;
@@ -26,7 +26,6 @@ body {
 #quote-box{
 
 	border-radius: 2px;
-  transition: 1s;
 	padding: 30px;
 	background-color:white;
 	min-width: 50vw;
@@ -34,9 +33,8 @@ body {
 }
 
 #button-wrapper{
-  transition: 1s;
 	display: flex;
-  justify-content: space-between;
+  	justify-content: space-between;
 }
 #root{
 	max-width: 200px;
